@@ -2,7 +2,7 @@
 
 # 🧰 OSINTKit Brasil
 
-**OSINTKit Brasil** é uma curadoria nacional de ferramentas de OSINT (Open Source Intelligence), cuidadosamente organizadas para facilitar investigações, pesquisas e atividades de segurança da informação. O projeto reúne centenas de links úteis categorizados em formato de **bookmarks HTML compatíveis com qualquer navegador**.
+**OSINTKit Brasil** é uma curadoria nacional de ferramentas de OSINT (Open Source Intelligence), cuidadosamente organizadas para facilitar investigações, pesquisas e atividades de segurança da informação. O projeto reúne mais de **1600 links** úteis categorizados em formato de **bookmarks HTML compatíveis com qualquer navegador**.
 
 Inspirado por iniciativas internacionais e nacionais, o OSINTKit Brasil visa oferecer um ponto de partida confiável, prático e acessível para analistas, investigadores e entusiastas da ciberinteligência no Brasil.
 

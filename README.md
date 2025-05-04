@@ -52,10 +52,10 @@ Os links estão organizados por **categorias temáticas** e, quando necessário,
 
 Este projeto foi possível graças à generosidade de comunidades e iniciativas que compartilharam conhecimento de forma aberta. Nossos mais sinceros agradecimentos a:
 
-- 🔍 **Caipora (Brasil)** – Curadoria original de ferramentas OSINT no cenário nacional
-- 🌐 **TraceLabs** – OSINT Search Party Bookmarks, estrutura refinada e internacional
-- 🇧🇷 **OSINT Brazuca** – Coletâneas locais e iniciativas brasileiras em OSINT
-- 🚀 **OSINT Awesome** – Listagem internacional de ferramentas OSINT no GitHub
+- 🔍 **Caipora (Brasil)** – [Curadoria original de ferramentas OSINT no cenário nacional](https://caipora.pro/)
+- 🌐 **TraceLabs** – [OSINT Search Party Bookmarks, estrutura refinada e internacional](https://www.tracelabs.org/)
+- 🇧🇷 **OSINT Brazuca** – [Coletâneas locais e iniciativas brasileiras em OSINT](https://github.com/osintbrazuca/osint-brazuca)
+- 🚀 **OSINT Awesome** – [Listagem internacional de ferramentas OSINT no GitHub](https://github.com/jivoi/awesome-osint)
 
 Este projeto se inspira, adapta e complementa essas fontes com curadoria própria, revisão de duplicatas e tradução de categorias para o português.
 

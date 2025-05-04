@@ -1,3 +1,4 @@
+![OSINTKit Brasil](assets/logo.png)
 
 # 🧰 OSINTKit Brasil
 
